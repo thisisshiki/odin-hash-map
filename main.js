@@ -28,3 +28,5 @@ console.log(test.get('moon')); // Should return 'silver'
 console.log(test.keys()); // Should return all keys
 console.log(test.values()); // Should return all values
 console.log(test.entries()); // Should return all entries
+
+test.print();
